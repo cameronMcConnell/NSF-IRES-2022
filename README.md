@@ -10,7 +10,9 @@ This project included machine learning research on a dataset provided by the Mov
 
 ### Dependencies
 
-* ```python, scikit-learn, matplotlib```
+* ```python```
+* ```scikit-learn```
+* ```matplotlib```
 
 ### Installing
 
